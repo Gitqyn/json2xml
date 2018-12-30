@@ -131,7 +131,7 @@ System.out.println("json==>"+json1);
 String spath2 = "F:/GIT_Space/json2xml/json&xmldemo/jsondemo.json";
 String opath2 = "F:/GIT_Space/json2xml/json&xmldemo/jsondemo.xml";
 String rs2 = jfxfTranspose(spath2,opath2,1);
-System.out.print(rs2);
+System.out.print(rs2); 
 /**
  * xml×ª»¯Îªjson
  */
