@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a><e class="object"><add type="string">北京</add><age type="string">20</age><gender type="string">男</gender><name type="string">小王</name></e><e class="object"><add type="string">上海</add><age type="string">21</age><gender type="string">女</gender><name type="string">小李</name></e></a>
